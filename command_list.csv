@@ -1,7 +1,7 @@
    1  cd ../
-   2  git HW-10
-   3  git clone https://github.com/Looaniel/HW-10.git
-   4  cd HW-10/
+   2  git HW_10
+   3  git clone https://github.com/Looaniel/HW_10.git
+   4  cd HW_10/
    5  clear
    6  touch text_ignore.txt
    7  nano .gitignore
